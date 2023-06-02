@@ -57,7 +57,7 @@
          <TextField layoutX="239.0" layoutY="232.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="24.0" prefWidth="57.0" GridPane.columnIndex="1" GridPane.rowIndex="5" />
       </children>
    </GridPane>
-   <Button maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" mnemonicParsing="false" prefHeight="24.0" prefWidth="61.0" text="Tracer" translateX="-139.0" translateY="410.0" />
+   <Button maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" mnemonicParsing="false" prefHeight="24.0" prefWidth="60.0" text="Tracer" translateX="-139.0" translateY="410.0" />
    <opaqueInsets>
       <Insets />
    </opaqueInsets>
